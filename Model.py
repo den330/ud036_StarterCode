@@ -1,4 +1,14 @@
 class Media():
+
+    """ Data structure used to store movie info
+    title: The title of the movie.
+    storyline: The story the movie is about.
+    poster_image_url: the location where a poster image is located.
+    trailer_youtube_url: the location on youtube where the movie trailer
+    is located.
+    
+    """
+
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
