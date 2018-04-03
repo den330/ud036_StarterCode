@@ -21,5 +21,3 @@ movie_the_last_jedi = Model.Media("Star Wars: The Last Jedi",
 movies = [movie_2012, movie_the_silence_of_the_lambs, movie_the_last_jedi]
 
 fresh_tomatoes.open_movies_page(movies)
-
-
