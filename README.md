@@ -8,7 +8,7 @@ In order to run this program you will need the following:
 
 1. Computer(Windows or Mac OS)
 2. Python 3
-3. working knowledge of using the command-line
+3. Working knowledge of using the command-line
 
 ## Instructions
 
@@ -16,4 +16,3 @@ In order to run this program you will need the following:
 2. Change directory to the project folder
 3. Run the Main.py file
 4. Enjoy!
-
